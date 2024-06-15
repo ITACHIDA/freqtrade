@@ -7,8 +7,8 @@ name = "freqtrade"
 dynamic = ["version", "dependencies", "optional-dependencies"]
 
 authors = [
-  {name = "Freqtrade Team"},
-  {name = "Freqtrade Team", email = "freqtrade@protonmail.com"},
+  {name = "ITACHI"},
+  {name = "ITACHI", email = "jamespotter0905wizard@gmail.com"},
 ]
 
 description = "Freqtrade - Crypto Trading Bot"

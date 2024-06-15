@@ -41,7 +41,7 @@ class Edge:
     against historical data for a give set of markets and a strategy
     it then adjusts stoploss and position size accordingly
     and force it into the strategy
-    Author: https://github.com/mishaker
+    Author: https://github.com/ITACHIDA
     """
 
     _cached_pairs: Dict[str, Any] = {}  # Keeps a list of pairs
@@ -441,7 +441,7 @@ class Edge:
         It then cuts OHLC, buy_column, sell_column and date_column.
         Cut from (the exit trade index) + 1.
 
-        Author: https://github.com/mishaker
+        Author: https://github.com/ITACHIDA
         """
 
         result: list = []

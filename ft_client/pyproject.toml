@@ -7,8 +7,8 @@ name = "freqtrade-client"
 dynamic = ["version"]
 
 authors = [
-  {name = "Freqtrade Team"},
-  {name = "Freqtrade Team", email = "freqtrade@protonmail.com"},
+  {name = "ITACHI"},
+  {name = "ITACHI", email = "jamespotter0905wizard@gmail.com"},
 ]
 
 description = "Freqtrade - Client scripts"
